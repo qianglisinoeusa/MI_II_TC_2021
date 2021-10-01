@@ -29,6 +29,7 @@ we should attempt to assess functional connectivity in the brain.
     
     Python libraries are used to download dataset and estimate
     multivariate mutual information are listed as follows,
+    [pyentropy-master](http://code.google.com/p/pyentropy)
     [Nilearn](https://nilearn.github.io/),
     [RBIG](https://isp.uv.es/RBIG4IT.htm),
     [CorEx](https://github.com/gregversteeg/CorEx).
