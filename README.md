@@ -65,9 +65,7 @@ year = {2022},
 issn = {0893-6080},
 doi = {https://doi.org/10.1016/j.neunet.2021.11.016},
 url = {https://www.sciencedirect.com/science/article/pii/S0893608021004445},
-author = {Qiang Li},
-keywords = {Information transmission, Mutual information, Interaction information, Total correlation, Multivariate distribution, Functional connectivity},
-abstract = {Shannon’s entropy or an extension of Shannon’s entropy can be used to quantify information transmission between or among variables. Mutual information is the pair-wise information that captures nonlinear relationships between variables. It is more robust than linear correlation methods. Beyond mutual information, two generalizations are defined for multivariate distributions: interaction information or co-information and total correlation or multi-mutual information. In comparison to mutual information, interaction information and total correlation are underutilized and poorly studied in applied neuroscience research. Quantifying information flow between brain regions is not explicitly explained in neuroscience by interaction information and total correlation. This article aims to clarify the distinctions between the neuroscience concepts of mutual information, interaction information, and total correlation. Additionally, we proposed a novel method for determining the interaction information between three variables using total correlation and conditional mutual information. On the other hand, how to apply it properly in practical situations. We supplied both simulation experiments and real neural studies to estimate functional connectivity in the brain with the above three higher-order information-theoretic approaches. In order to capture redundancy information for multivariate variables, we discovered that interaction information and total correlation were both robust, and it could be able to capture both well-known and yet-to-be-discovered functional brain connections.}
+author = {Qiang Li}
 }
 ```
 
