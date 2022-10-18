@@ -1,6 +1,6 @@
 # **Functional Connectivity Inference from fMRI Data Using Multivariate Information Measures**
 
-#### QiangLI
+#### Qiang Li
 
 ## Abstract
 
