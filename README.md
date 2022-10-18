@@ -69,3 +69,31 @@ author = {Qiang Li}
 }
 ```
 
+
+```
+@misc{QL22TC,
+doi = {10.48550/ARXIV.2208.05770},
+url = {https://arxiv.org/abs/2208.05770},
+author = {Li, Qiang and Steeg, Greg Ver and Malo, Jesus},
+keywords = {Neurons and Cognition (q-bio.NC), Probability (math.PR), FOS: Biological sciences, FOS: Biological sciences, FOS: Mathematics,    FOS: Mathematics},
+title = {Functional Connectivity in Visual Areas from Total Correlation},
+publisher = {arXiv},
+year = {2022},
+copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+
+
+```
+@misc{TCFCC22,
+doi = {10.48550/ARXIV.2210.03231}, 
+url = {https://arxiv.org/abs/2210.03231},
+author = {Li, Qiang and Steeg, Greg Ver and Yu, Shujian and Malo, Jesus},
+keywords = {Neurons and Cognition (q-bio.NC), Statistics Theory (math.ST), FOS: Biological sciences, FOS: Biological sciences, FOS: Mathematics, FOS: Mathematics},
+title = {Functional Connectome of the Human Brain with Total Correlation},
+publisher = {arXiv},
+year = {2022},
+copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+
