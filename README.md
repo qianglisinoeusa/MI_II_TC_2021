@@ -85,15 +85,16 @@ copyright = {Creative Commons Attribution 4.0 International}
 
 
 ```
-@misc{TCFCC22,
-doi = {10.48550/ARXIV.2210.03231}, 
-url = {https://arxiv.org/abs/2210.03231},
-author = {Li, Qiang and Steeg, Greg Ver and Yu, Shujian and Malo, Jesus},
-keywords = {Neurons and Cognition (q-bio.NC), Statistics Theory (math.ST), FOS: Biological sciences, FOS: Biological sciences, FOS: Mathematics, FOS: Mathematics},
-title = {Functional Connectome of the Human Brain with Total Correlation},
-publisher = {arXiv},
-year = {2022},
-copyright = {Creative Commons Attribution 4.0 International}
+@Article{e24121725,
+AUTHOR = {Li, Qiang and Steeg, Greg Ver and Yu, Shujian and Malo, Jesus},
+TITLE = {Functional Connectome of the Human Brain with Total Correlation},
+JOURNAL = {Entropy},
+VOLUME = {24},
+YEAR = {2022},
+NUMBER = {12},
+ARTICLE-NUMBER = {1725},
+URL = {https://www.mdpi.com/1099-4300/24/12/1725},
+DOI = {10.3390/e24121725}
 }
 ```
 
